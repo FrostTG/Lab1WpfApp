@@ -165,5 +165,26 @@
             VerticalAlignment="Top" 
             Width="280" 
             Background="White"/>
+        <Button
+            VerticalAlignment="Top"
+            HorizontalAlignment="Left"
+            Height="25"
+            Width="25"
+            Margin="450,20,0,0"
+            Background="#FF272424" FontSize="20" FontFamily="Times New Roman" Content="-" Foreground="#FFFDF9F9"/>
+        <Button
+            VerticalAlignment="Top"
+            HorizontalAlignment="Left"
+            Height="25"
+            Width="25"
+            Margin="480,20,0,0"
+            Background="#FF272424" FontSize="20" FontFamily="Times New Roman" Content="□" Foreground="#FFFDF9F9"/>
+        <Button
+            VerticalAlignment="Top"
+            HorizontalAlignment="Left"
+            Height="25"
+            Width="25"
+            Margin="510,20,0,0"
+            Background="#FF272424" FontSize="20" FontFamily="Times New Roman" Content="X" Foreground="#FFFDF9F9"/>        
     </Grid>
 </Window>
